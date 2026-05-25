@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clustervave",
+        "uuid": 362194,
+        "checksum": "b9yovw"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
